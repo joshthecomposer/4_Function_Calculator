@@ -1,5 +1,5 @@
 # 4 Function Calculator
-DESCRIPTION
+This was an exercise completed for Coding Dojo.
 ### Objectives:
 Using what we've learned about:
 
