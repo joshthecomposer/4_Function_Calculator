@@ -17,7 +17,7 @@ Try to build a 4 Function Calculator from scratch.
 We'll provide some HTML to get you started, and check out a working demo embedded below!
 
 ## I was given this starter HTML:
-'''
+```
 <div id="calculator">
   <div id="display">0</div>
   <div class="row">
@@ -48,4 +48,4 @@ We'll provide some HTML to get you started, and check out a working demo embedde
     <button id="equals" onclick="calculate()">=</div>
   </div>
 <div>
-'''
+```
