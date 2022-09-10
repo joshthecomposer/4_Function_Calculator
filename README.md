@@ -16,9 +16,6 @@ Try to build a 4 Function Calculator from scratch.
 
 We'll provide some HTML to get you started, and check out a working demo embedded below!
 
-### Additional functionality for extra practice:
-* 
-* 
 ## I was given this starter HTML:
 '''
 <div id="calculator">
